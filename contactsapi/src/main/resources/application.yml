@@ -10,7 +10,7 @@ spring:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/contactsAPI?createDatabaseIfNotExist=true
     username: root
-    password: EloTal100
+    password: ChangePassHere
   main:
     web-application-type: servlet
   servlet:
